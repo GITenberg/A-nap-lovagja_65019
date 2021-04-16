@@ -1,0 +1,44 @@
+_repo: A-nap-lovagja_65019
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Márk, Lajos
+    gutenberg_agent_id: '53148'
+    url: http://www.gutenberg.org/2009/agents/53148
+creator:
+  author:
+    agent_name: Bródy, Sándor
+    aliases:
+    - Bródi, Sándor
+    - Brody, Sandor
+    - Brodi, Sandor
+    birthdate: 1863
+    deathdate: 1924
+    gutenberg_agent_id: '42369'
+    url: http://www.gutenberg.org/2009/agents/42369
+    wikipedia: http://hu.wikipedia.org/wiki/Br%C3%B3dy_S%C3%A1ndor
+  editor:
+    agent_name: Mikszáth, Kálmán
+    aliases:
+    - Mikszath, Kalman
+    - Kálmán Mikszáth
+    birthdate: 1847
+    deathdate: 1910
+    gutenberg_agent_id: '26008'
+    url: http://www.gutenberg.org/2009/agents/26008
+    wikipedia:
+    - https://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
+    - https://hu.wikipedia.org/wiki/Mikszáth_Kálmán_(író)
+description: ''
+gutenberg_issued: '2021-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65019'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A nap lovagja
+url: http://www.gutenberg.org/ebooks/65019
